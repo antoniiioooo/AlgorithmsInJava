@@ -1,7 +1,7 @@
-/*Antonio O. 
+/* Antonio O. 
  * Were being introduced to Stacks, but a bit of a review
  * The stacks are comands with LIFO
- * 
+ * Adavanced Data Structures 282
  */
 package StackAndQueues;
 
