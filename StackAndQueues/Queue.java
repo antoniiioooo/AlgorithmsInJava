@@ -1,6 +1,6 @@
 /*
  * Antonio O.
- * Data Structure 282
+ * Advanced Data Structure 282
  * 
  */
 package StackAndQueues;
