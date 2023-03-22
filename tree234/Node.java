@@ -1,13 +1,13 @@
 /*
- * Antonio Olivera
+ * Antonio O.
  * November 9, 2022
- * 
+ * Advanced Data Structures 282
  */
 package tree234;
 
 /**
  *
- * @author antonioolivera
+ * @author antonioo
  */
 public class Node {
 
